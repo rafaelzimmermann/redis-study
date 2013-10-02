@@ -1,0 +1,22 @@
+{
+  "name": "redis-study",
+  "version": "0.0.0",
+  "description": "redis-study ===========",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "~0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafaelzimmermann/redis-study.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/rafaelzimmermann/redis-study/issues"
+  }
+}
